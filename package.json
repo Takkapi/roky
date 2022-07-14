@@ -1,6 +1,6 @@
 {
   "name": "roky",
-  "version": "0.1.0",
+  "version": "0.0.9",
   "description": "Roky bot for discord",
   "main": "./src/bot.js",
   "author": "Takkapi",
