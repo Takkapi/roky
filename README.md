@@ -1,0 +1,1 @@
+This is a open sourse bot, feel free to use it and if you encounter any bugs please create an issue

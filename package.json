@@ -1,0 +1,12 @@
+{
+  "name": "roky",
+  "version": "0.1.0",
+  "description": "Roky bot for discord",
+  "main": "./src/bot.js",
+  "author": "Takkapi",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "sync-fetch": "^0.4.1"
+  }
+}
